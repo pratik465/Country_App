@@ -4,5 +4,6 @@ class Click_Now
 
 fun onclick(i : Int)
 
+
 //fun onclick(i:Int)
 }
