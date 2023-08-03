@@ -15,11 +15,7 @@
         <activity
             android:name=".Detail.Country_Details"
             android:exported="false" />
-        <activity
-            android:name=".Detail.Country_Details"
-            android:exported="false"
-            android:label="@string/title_activity_country_details"
-            android:theme="@style/Theme.Country_App" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">

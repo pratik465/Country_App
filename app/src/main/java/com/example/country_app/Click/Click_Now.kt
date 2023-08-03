@@ -1,9 +1,7 @@
 package com.example.country_app.Click
 
-class Click_Now
+interface Click_Now{
 
 fun onclick(i : Int)
 
-
-//fun onclick(i:Int)
 }
